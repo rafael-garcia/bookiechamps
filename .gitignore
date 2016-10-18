@@ -35,3 +35,13 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Idea / Webstorm
+.idea
+
+input_files
+
+# Babel
+**/*-compiled.js
+**/*-compiled.js.map
+
